@@ -14,9 +14,7 @@ To install the project, you can clone the repository and install the dependencie
 
 ```bash
 git clone https://github.com/huangdijia/local-ai.git
-
 cd local-ai
-
 pip install -r requirements.txt
 ```
 
@@ -45,6 +43,8 @@ Visit [http://localhost:8501](http://localhost:8501) to view the app.
 ## Run in venv
 
 ```bash
+git clone https://github.com/huangdijia/local-ai.git
+cd local-ai
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
