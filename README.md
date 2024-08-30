@@ -1,4 +1,4 @@
-# localAI based on Github Models
+# LocalAI based on Github Models
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/huangdijia/local-ai/app.py)
 
