@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This project is a simple implementation of a local AI model based on Github models. The idea is to use the Github API to search for a model and download it to the local machine. The model can then be used for inference on local data.
+This project is a simple implementation of a local AI model based on [Github Models](https://gh.io/models). The idea is to use the Github API to search for a model and download it to the local machine. The model can then be used for inference on local data.
 
 ## Installation
 
@@ -54,4 +54,3 @@ streamlit run app.py
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
