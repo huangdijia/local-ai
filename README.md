@@ -1,5 +1,9 @@
 # localAI based on Github Models
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/huangdijia/local-ai/app.py)
+
+![localAI](./banner.png)
+
 ## Introduction
 
 This project is a simple implementation of a local AI model based on Github models. The idea is to use the Github API to search for a model and download it to the local machine. The model can then be used for inference on local data.
